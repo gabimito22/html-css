@@ -1,14 +1,14 @@
 @charset "utf-8";
 *{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1em;
+    font-size: 1.3em;
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
 html{
    
-    height: 100vh;
+    height: 205vh;
 }
 body{
     background: black url(../imagens/back-phone.jpg) no-repeat;
